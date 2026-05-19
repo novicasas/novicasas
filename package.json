@@ -1,7 +1,7 @@
 {
   "name": "novicasas-wa",
   "version": "1.0.0",
-  "description": "NOVICASAS - Cobros automaticos por WhatsApp",
+  "description": "NOVICASAS cobros WhatsApp",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
