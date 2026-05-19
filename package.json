@@ -1,0 +1,14 @@
+{
+  "name": "novicasas-wa",
+  "version": "1.0.0",
+  "description": "NOVICASAS - Cobros automaticos por WhatsApp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "node-cron": "^3.0.3",
+    "twilio": "^5.4.0"
+  }
+}
